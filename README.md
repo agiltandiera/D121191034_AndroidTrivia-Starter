@@ -1,3 +1,8 @@
+Nama  : Novrinda Agil Tandiera
+NIM   : D121191034
+Kelas : Teknik Informatika B
+
+**============================**
 AndroidTrivia - starter code
 ============================
 
